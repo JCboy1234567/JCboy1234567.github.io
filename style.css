@@ -18,7 +18,7 @@
 }
 .background h1{
    padding-top: 20%;
-   padding-left: 25%;
+   padding-left: 15.5%;
    letter-spacing: 10px;
    color: white;
    font-size: 60px;
@@ -54,7 +54,6 @@
     margin-top: -2%;
 }
 .sign-letter h1{
-    text-align: center;
     text-shadow: 5px 5px 10px rgb(255, 255, 255);
     text-align: center;
     padding-top: 2%;
@@ -119,16 +118,15 @@
     flex-wrap: wrap;
     margin-bottom: 4%;
     margin-left: 4%;
-    
+    padding: 0.5%;
     border: 5px rgb(97, 97, 97) solid;
     width: 15%;
     justify-content: center;
 }
 .viewall:hover{
-    width: 15.5%;
-    box-shadow:0px 0px 10px rgb(97, 97, 97);
+    margin-left: 1%;
+    box-shadow:7px 7px 10px rgb(97, 97, 97);
     transition: 0.5s;
-    margin-left: 3.5%;  
 }
 .landing{
     background-image: url(image/main-image.jpg);
